@@ -9,4 +9,12 @@
  - IP addresses (IPv4 and IPv6)
  - routers and routing
  - domains and DNS
-**Explain** how each technology has contributed to the development of the internet.
+
+### **Explain** how each technology has contributed to the development of the internet.
+
+### Q3. **Define** the features of the following technologies that are essential in terms of the development of the internet:
+ - TCP
+ - HTTP and HTTPS
+ - web browsers (requests, rendering and developer tools)
+
+###  **Explain** how each technology has contributed to the development of client and server communication over the internet (50 - 150 words for each technology)
