@@ -205,6 +205,8 @@ For example, 0, 1 and -42 can be labelled as an "integer" type and "foo" and "He
 To solve the problem, “Food” clase will be used. The reason using the “Food” class for this app is you can have the objects for example, hamburger, chips, pizza, etc. For the methods, we can also have for example, taking orders, receiving payments from customers, wrapping up the foods, delivering to the customer, etc. 
 
 ## Q12. (100 words) Identify and explain the error in the code snippet below that is preventing correct execution of the program
+There is an error after the “gets” when asking the user to enter the number to calculate the Fahrenheit. There is a formula to calculate the Fahrenheit therefore it needs to add “to_f” to convert it to the numbers with decimal points. The attached is the correct code below.
+
 ```
 celsius = gets.to_f
 fahrenheit = (celsius * 9 / 5) + 32
